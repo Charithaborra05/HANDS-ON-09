@@ -1,8 +1,8 @@
 # HANDS-ON-09
-Name: Charitha Sri Borra
-Student ID: 1002203550
-Hash Table Implementation
-Description
+Name: Charitha Sri Borra;
+Student ID: 1002203550;
+Hash Table Implementation;
+Description:
 This is a Python implementation of a Hash Table that uses:
 
 Multiplication and Division Methods for the hash function.
